@@ -25,7 +25,7 @@ API serverless de processamento assíncrono e desacoplado de pedidos.
 
 ## 📈 Certificações
 
-- 🥇 **AWS Certified Developer – Associate (DVA-C02)** — [[https://encurtador.com.br/mOhd](https://www.credly.com/badges/70207bbe-6f58-44f6-9482-66457ac741f4)]
+- 🥇 **[AWS Certified Developer – Associate (DVA-C02)](https://www.credly.com/badges/70207bbe-6f58-44f6-9482-66457ac741f4)**
 
 ---
 
