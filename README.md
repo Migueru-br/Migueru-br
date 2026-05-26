@@ -1,16 +1,39 @@
-## Hi there 👋
+# Olá, eu sou o Miguel 👋
 
-<!--
-**Migueru-br/Migueru-br** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Cloud Engineer / Backend Developer
 
-Here are some ideas to get you started:
+Sou um engenheiro de software focado no ecossistema AWS e no desenvolvimento de aplicações backend escaláveis, resilientes e baseadas em arquitetura de microsserviços. Adoto práticas de Infraestrutura como Código (IaC) e padrões serverless para resolver problemas de alta complexidade técnica.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ O Meu Stack Tecnológico
+
+- **Linguagens & Frameworks:** .NET 10 (C#), ASP.NET Core, Node.js.
+- **Nuvem (AWS):** Lambda, API Gateway, SQS, SNS, DynamoDB, S3, CloudFormation, SAM.
+- **Práticas & Ferramentas:** Microsserviços, Arquitetura Assíncrona, CI/CD, Git, Docker.
+
+---
+
+## 🏗️ Projeto Principal
+
+### 📦 [OrderProcessingAPI](link-para-o-repositorio)
+API serverless de processamento assíncrono e desacoplado de pedidos.
+- **Tecnologias:** .NET 10, AWS SAM, SQS, DynamoDB.
+- **Destaque Técnico:** Implementação do padrão *API → Queue → Worker* com tratamento avançado de *Poison Messages* direto para DLQ e políticas estritas de IAM baseadas no princípio de menor privilégio.
+
+---
+
+## 📈 Certificações
+
+- 🥇 **AWS Certified Developer – Associate (DVA-C02)** — [https://encurtador.com.br/mOhd]
+
+---
+
+## 💬 Vamos conversar?
+
+- **LinkedIn:** [www.linkedin.com/in/miguel-pinheiro-6807392b7
+
+](www.linkedin.com/in/miguel-pinheiro-6807392b7
+
+)
+- **E-mail:** miguelplays2029@gmail.com
