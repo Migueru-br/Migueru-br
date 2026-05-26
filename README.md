@@ -8,10 +8,9 @@ Sou um engenheiro de software focado no ecossistema AWS e no desenvolvimento de 
 
 ## 🛠️ O Meu Stack Tecnológico
 
-- **Linguagens & Frameworks:** .NET 10 (C#), ASP.NET Core, Node.js.
-- **Nuvem (AWS):** Lambda, API Gateway, SQS, SNS, DynamoDB, S3, CloudFormation, SAM.
+- **Linguagens & Frameworks:** .NET 10 (C# ![.NET 10](https://img.shields.io/badge/.NET%2010-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)), ASP.NET Core, Node.js.
+- **Nuvem (![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)):** Lambda, API Gateway, SQS, SNS, DynamoDB, S3, CloudFormation, SAM.
 - **Práticas & Ferramentas:** Microsserviços, Arquitetura Assíncrona, CI/CD, Git, Docker.
-
 ---
 
 ## 🏗️ Projeto Principal
