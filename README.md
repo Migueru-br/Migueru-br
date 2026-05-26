@@ -15,7 +15,7 @@ Sou um engenheiro de software focado no ecossistema AWS e no desenvolvimento de 
 
 ## 🏗️ Projeto Principal
 
-### 📦 [OrderProcessingAPI](link-para-o-repositorio)
+### 📦 [OrderProcessingAPI](https://github.com/Migueru-br/OrderProcessingAPI)
 API serverless de processamento assíncrono e desacoplado de pedidos.
 - **Tecnologias:** .NET 10, AWS SAM, SQS, DynamoDB.
 - **Destaque Técnico:** Implementação do padrão *API → Queue → Worker* com tratamento avançado de *Poison Messages* direto para DLQ e políticas estritas de IAM baseadas no princípio de menor privilégio.
