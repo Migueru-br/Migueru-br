@@ -31,9 +31,5 @@ API serverless de processamento assíncrono e desacoplado de pedidos.
 
 ## 💬 Vamos conversar?
 
-- **LinkedIn:** [www.linkedin.com/in/miguel-pinheiro-6807392b7
-
-](www.linkedin.com/in/miguel-pinheiro-6807392b7
-
-)
+- **LinkedIn:** www.linkedin.com/in/miguel-pinheiro-6807392b7
 - **E-mail:** miguelplays2029@gmail.com
